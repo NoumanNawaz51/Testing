@@ -1,0 +1,9 @@
+c:\users\nouman.nawaz\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\nouman.nawaz\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\nouman.nawaz\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\nouman.nawaz\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\nouman.nawaz\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\NATS.Client.dll
+C:\Users\nouman.nawaz\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\nouman.nawaz\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\nouman.nawaz\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nouman.nawaz\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Newtonsoft.Json.xml
